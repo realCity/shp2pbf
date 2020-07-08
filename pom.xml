@@ -4,7 +4,7 @@
 
     <groupId>io.realcity</groupId>
     <artifactId>shp2pbf</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <geotools.version>21.2</geotools.version>
